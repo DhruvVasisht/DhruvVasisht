@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate with other developer to build world a better place
 
-🥅 2022 Goal: Learn Machine Learning
+🥅 2022 Goal: Master In Data Structures And Algorithms
 
-⚡ Fun fact: I love to play guitar
+⚡ Fun fact: I am a Gamer
