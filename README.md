@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate with other developer to build world a better place
 
-🥅 2022 Goal: Master In Data Structures And Algorithms
+🥅 2023 Goal: Become A Full Stack Web Developer
 
 ⚡ Fun fact: I am a Gamer
