@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vasisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## 📖 About Me
+
+- 🎓 I'm a 2nd year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
+- 🌱 I’m currently learning **Web Development**.
+- ⚡ Fun fact: I love playing **Piano**.
+- 💬 Ask me about **Python**.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvasisht&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvvasisht" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvthegeekgod" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvthegeekgod?logo=twitter&style=for-the-badge" alt="dhruvthegeekgod" /></a> </p>
