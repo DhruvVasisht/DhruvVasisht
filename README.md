@@ -16,9 +16,11 @@
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://twitter.com/dhruvthegeekgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvthegeekgod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv-vasisht07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vasisht07" height="30" width="40" /></a>
 <a href="https://instagram.com/_happyysoullll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_happyysoullll" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-vasisht07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vasisht07" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvthegeekgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvthegeekgod" height="30" width="40" /></a>
+
+
 </p>
 
 
