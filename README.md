@@ -6,12 +6,11 @@
 - 🎓 I'm a 2nd year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
 - 🌱 I’m currently learning **Web Development**.
 - ⚡ Fun fact: I am A **Gamer**.
-
-
-
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/DhruvVasisht](https://github.com/DhruvVasisht)
+
+<div id="header" align="center" height="600px" width="500px">
+ <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+</div>
 
 ## 📫 How to reach me
 
