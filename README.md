@@ -3,7 +3,7 @@
 
 ## 📖 About Me
 
-- 🎓 I'm a 4th year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
+- 🎓 I'm a Btech Computer Science Graduate from [SRM University, Sonepat](https://srmuniversity.ac.in/).
 - 🌱 I’m currently Mastering in  **Problem Solving With Java Language**.
 - ⚡ Fun fact: I am A **Gamer**.
 - 👨‍💻 All of my projects are available at [https://github.com/DhruvVasisht](https://github.com/DhruvVasisht)
