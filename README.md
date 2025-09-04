@@ -41,6 +41,18 @@
       <img src="https://github-readme-stats.vercel.app/api?username=DhruvVasisht&show_icons=true" />
     </picture>
   </p>
+
+  <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="DhruvVasisht" />
+    </picture>
   
 <!-- Wakatime Stats -->
   <p align="center">
@@ -56,4 +68,6 @@
       <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=mukund1606&v=2&layout=compact" alt="mukund1606" />
     </picture>
   </p>
+
+
 
