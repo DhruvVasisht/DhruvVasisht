@@ -41,32 +41,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=DhruvVasisht&show_icons=true" />
     </picture>
   </p>
-
-<!-- Contribution Stats -->
-  <p align="center">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=mukund1606&theme=dark&date_format=j%20M%5B%20Y%5D"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://githubstreakstats.mukund.page?user=mukund1606&date_format=j%20M%5B%20Y%5D"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://streak-stats.demolab.com?user=mukund1606&date_format=j%20M%5B%20Y%5D" />
-    </picture>
-  </p>
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="DhruvVasisht" />
-    </picture>
+\
 <!-- Most Used Languages -->
   <p align="center">
   </p>
