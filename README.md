@@ -31,3 +31,46 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvvasisht&show_icons=true&theme=radical" alt=dhruvvasisht" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvasisht&layout=compact&theme=radical" alt="dhruvvasisht" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvvasisht&theme=radical" alt="dhruvvasisht" /></p>
+
+<!-- Contribution Stats -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=mukund1606&theme=dark&date_format=j%20M%5B%20Y%5D"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://githubstreakstats.mukund.page?user=mukund1606&date_format=j%20M%5B%20Y%5D"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://streak-stats.demolab.com?user=mukund1606&date_format=j%20M%5B%20Y%5D" />
+    </picture>
+  </p>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="mukund1606" />
+    </picture>
+<!-- Most Used Languages -->
+  <p align="center">
+  </p>
+<!-- Wakatime Stats -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://githubstats.mukund.page/api/wakatime?username=mukund1606&v=2&theme=dark&layout=compact"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://githubstats.mukund.page/api/wakatime?username=mukund1606&v=2&layout=compact"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=mukund1606&v=2&layout=compact" alt="mukund1606" />
+    </picture>
+  </p>
