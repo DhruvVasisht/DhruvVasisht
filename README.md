@@ -64,13 +64,13 @@
   <p align="center">
     <picture>
       <source
-        srcset="https://githubstats.mukund.page/api/wakatime?username=DhruvVasisht&v=2&theme=dark&layout=compact"
+        srcset="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&theme=dark&layout=compact"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://githubstats.mukund.page/api/wakatime?username=DhruvVasisht&v=2&layout=compact"
+        srcset="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=DhruvVasisht&v=2&layout=compact" alt="DhruvVasisht" />
+      <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&layout=compact" alt="DhruvVasisht" />
     </picture>
   </p>
