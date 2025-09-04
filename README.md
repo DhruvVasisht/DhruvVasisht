@@ -48,14 +48,14 @@
   </p>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="mukund1606" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="DhruvVasisht" />
     </picture>
 <!-- Most Used Languages -->
   <p align="center">
