@@ -42,6 +42,7 @@
     </picture>
   </p>
 
+ <p align="center">
   <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
@@ -53,6 +54,7 @@
       />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="DhruvVasisht" />
     </picture>
+ </p>
   
 <!-- Wakatime Stats -->
   <p align="center">
