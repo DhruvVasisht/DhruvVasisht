@@ -26,36 +26,6 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
 ## 📈 My GitHub Stats
-
-<!-- Profile Stats -->
-  <p align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=DhruvVasisht&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=DhruvVasisht&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=DhruvVasisht&show_icons=true" />
-    </picture>
-  </p>
-
- <p align="center">
-  <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVasisht&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="DhruvVasisht" />
-    </picture>
- </p>
-  
 <!-- Wakatime Stats -->
   <p align="center">
     <picture>
