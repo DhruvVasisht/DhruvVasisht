@@ -44,10 +44,10 @@ B.Tech Computer Science graduate from [SRM University, Sonepat](https://srmunive
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-static-dark.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-static.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake.svg" width="840" alt="Snake animation of Dhruv Vasisht's GitHub contributions over the past year" />
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-static-dark.svg?v=2" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-static.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/DhruvVasisht/DhruvVasisht/output/snake.svg?v=2" width="840" alt="Snake animation of Dhruv Vasisht's GitHub contributions over the past year" />
 </picture>
 </p>
 
