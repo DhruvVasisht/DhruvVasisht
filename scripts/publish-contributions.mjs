@@ -6,8 +6,9 @@ if (!repository || !token)
   throw new Error('GitHub repository and token are required.');
 
 async function request(path, options = {}) {
+  const baseUrl = `https://api.github.com/repos/${repository}`;
   const response = await fetch(
-    `https://api.github.com/repos/${repository}/${path}`,
+    path ? `${baseUrl}/${path}` : baseUrl,
     {
       ...options,
       headers: {
