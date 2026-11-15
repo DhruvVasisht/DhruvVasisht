@@ -1,45 +1,91 @@
-<h1 align="center">Hi 👋, I'm Dhruv Vasisht</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
-
-## 📖 About Me
-
-- 🎓 I'm a Btech Computer Science Graduate from [SRM University, Sonepat](https://srmuniversity.ac.in/).
-- 🌱 I’m currently Mastering in  **Problem Solving With Java Language**.
-- ⚡ Fun fact: I am A **Gamer**.
-- 👨‍💻 All of my projects are available at [https://github.com/DhruvVasisht](https://github.com/DhruvVasisht)
-
-
-## 📫 How to reach me
-
-<p align="left">
-<a href="https://instagram.com/_happyysoullll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_happyysoullll" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv-vasisht07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vasisht07" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruvthegeekgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvthegeekgod" height="30" width="40" /></a>
-
-
+<p align="center">
+  <img src="./assets/avatar.png" width="96" height="96" alt="Pixel portrait of Dhruv Vasisht" />
 </p>
 
+<h1 align="center">Dhruv Vasisht</h1>
 
-## 🛠️ Languages
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
+<p align="center"><strong>Full stack engineer, web &amp; mobile.</strong></p>
 
-## 📈 My Wakatime Stats
-<!-- Wakatime Stats -->
-  <p align="center">
-    <picture>
-      <source
-        srcset="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&theme=dark&layout=compact"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&layout=compact"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=Dhruvthegeekgod&v=2&layout=compact" alt="Dhruvthegeekgod" />
-    </picture>
-  </p>
+<p align="center">
+  <a href="https://www.dhruvvasisht.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.dhruvvasisht.com/blog">Writing</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dhruv-vasisht07/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/noobKoderr">X</a> &nbsp;·&nbsp;
+  <a href="mailto:vasisht.dhruv7@gmail.com">Email</a>
+</p>
 
+I build web and mobile applications, contribute to open source, and turn real-world problems into useful products. My focus is **system design, performance, and reliable architecture**.
 
+## Currently building
 
+I'm a **Software Engineer at Tracks And Towers Infratech**, working on [BuildEnfra](https://buildenfra.in/), an AI-driven construction ERP supporting **8+ departments** and **10+ infrastructure projects**.
+
+- **Web:** procurement, work orders, inventory, and project management with Next.js, TypeScript, and Node.js.
+- **Mobile:** redesigned the React Native and Expo app for Android and iOS, published on the App Store.
+- **Systems:** independently built the HR platform; implemented BullMQ with Upstash Redis for bulk approvals, PDF generation, and background processing.
+
+[More about my work](https://www.dhruvvasisht.com/work-experience)
+
+## Selected projects
+
+**[DevFix](https://github.com/DhruvVasisht/DevFix)**  
+A team collaboration platform with secure file sharing, audio/video calls, and Gemini-powered coding assistance.  
+Next.js · TypeScript · PostgreSQL · Prisma · Socket.io
+
+**[JobQuest](https://github.com/DhruvVasisht/JobQuest)**  
+A platform connecting students and recruiters through role-based dashboards, resume uploads, and job application workflows.  
+React · Node.js · Express · MongoDB
+
+[Explore my projects](https://www.dhruvvasisht.com/projects)
+
+## Tech stack
+
+**Web & mobile**
+
+<p>
+  <img src="./assets/stack/typescript.svg" alt="TypeScript" height="32" />
+  <img src="./assets/stack/javascript.svg" alt="JavaScript" height="32" />
+  <img src="./assets/stack/react.svg" alt="React" height="32" />
+  <img src="./assets/stack/react-native.svg" alt="React Native" height="32" />
+  <img src="./assets/stack/expo.svg" alt="Expo" height="32" />
+  <img src="./assets/stack/nextjs.svg" alt="Next.js" height="32" />
+  <img src="./assets/stack/tailwind.svg" alt="Tailwind CSS" height="32" />
+</p>
+
+**Backend & data**
+
+<p>
+  <img src="./assets/stack/nodejs.svg" alt="Node.js" height="32" />
+  <img src="./assets/stack/express.svg" alt="Express" height="32" />
+  <img src="./assets/stack/bun.svg" alt="Bun" height="32" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" height="32" />
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" height="32" />
+  <img src="./assets/stack/prisma.svg" alt="Prisma" height="32" />
+  <img src="./assets/stack/redis.svg" alt="Redis" height="32" />
+  <img src="./assets/stack/bullmq.svg" alt="BullMQ" height="32" />
+</p>
+
+**Delivery & monitoring**
+
+<p>
+  <img src="./assets/stack/aws.svg" alt="AWS" height="32" />
+  <img src="./assets/stack/docker.svg" alt="Docker" height="32" />
+  <img src="./assets/stack/github-actions.svg" alt="GitHub Actions" height="32" />
+  <img src="./assets/stack/git.svg" alt="Git" height="32" />
+  <img src="./assets/stack/sentry.svg" alt="Sentry" height="32" />
+</p>
+
+**Coding tools:** VS Code · Cursor · Antigravity · Codex · Claude Code
+
+<details>
+  <summary>More technologies I've worked with</summary>
+
+C · Java · Python · HTML · CSS · Bootstrap · Redux · MySQL · Postman · Linux
+
+</details>
+
+## A little more
+
+I'm a B.Tech Computer Science graduate from [SRM University, Sonepat](https://srmuniversity.ac.in/). Outside of building software, I enjoy gaming.
+
+Have a project in mind? [Get in touch](mailto:vasisht.dhruv7@gmail.com).
