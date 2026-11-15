@@ -5,7 +5,7 @@ const token = process.env.GITHUB_TOKEN;
 if (!repository || !token)
   throw new Error('GitHub repository and token are required.');
 
-async function request(path, options = {}, allowMissing = false) {
+async function request(path, options = {}) {
   const response = await fetch(
     `https://api.github.com/repos/${repository}/${path}`,
     {
@@ -18,16 +18,15 @@ async function request(path, options = {}, allowMissing = false) {
       },
     },
   );
-  if (allowMissing && response.status === 404) return null;
   if (!response.ok)
     throw new Error(`GitHub ${path} returned ${response.status}.`);
   return response.json();
 }
 
-const branch = await request('git/ref/heads/output', {}, true);
-const previous = branch
-  ? await request(`git/commits/${branch.object.sha}`)
-  : null;
+const { default_branch: targetBranch } = await request('');
+const ref = encodeURIComponent(targetBranch);
+const branch = await request(`git/ref/heads/${ref}`);
+const previous = await request(`git/commits/${branch.object.sha}`);
 const files = [
   'snake.svg',
   'snake-dark.svg',
@@ -37,10 +36,10 @@ const files = [
 const tree = await request('git/trees', {
   method: 'POST',
   body: JSON.stringify({
-    ...(previous ? { base_tree: previous.tree.sha } : {}),
+    base_tree: previous.tree.sha,
     tree: await Promise.all(
       files.map(async (path) => ({
-        path,
+        path: `assets/contributions/${path}`,
         mode: '100644',
         type: 'blob',
         content: await readFile(`assets/contributions/${path}`, 'utf8'),
@@ -49,7 +48,7 @@ const tree = await request('git/trees', {
   }),
 });
 
-if (tree.sha === previous?.tree.sha) {
+if (tree.sha === previous.tree.sha) {
   console.log('Contribution graph is already current.');
 } else {
   const commit = await request('git/commits', {
@@ -57,18 +56,14 @@ if (tree.sha === previous?.tree.sha) {
     body: JSON.stringify({
       message: 'Update contribution graph',
       tree: tree.sha,
-      parents: previous ? [previous.sha] : [],
+      parents: [previous.sha],
     }),
   });
-  await request(branch ? 'git/refs/heads/output' : 'git/refs', {
-    method: branch ? 'PATCH' : 'POST',
-    body: JSON.stringify(
-      branch
-        ? { sha: commit.sha, force: false }
-        : { ref: 'refs/heads/output', sha: commit.sha },
-    ),
+  await request(`git/refs/heads/${ref}`, {
+    method: 'PATCH',
+    body: JSON.stringify({ sha: commit.sha, force: false }),
   });
   console.log(
-    `Published ${files.length} contribution images to the output branch.`,
+    `Published ${files.length} contribution images to ${targetBranch}.`,
   );
 }
